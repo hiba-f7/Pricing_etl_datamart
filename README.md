@@ -133,4 +133,4 @@ ORDER BY gross_revenue DESC;
 ---
 
 ## License
-Distributed under the MIT License. See `LICENSE` for more information.
+All Rights Reserved © 2026 HIBA FAHIMA P. For educational evaluation purposes only.
